@@ -1,8 +1,7 @@
 # 👋 Hi Everyone! Welcome to My Space
 
 This is my personal GitHub.  
-There’s not much extraordinary here like what you all have,  
-but I hope even the little I share can still be useful to others.
+There may not be much here, but I hope even a little can be useful to others.
 
 Feel free to connect with me through:
 - 🌐 [My Website](https://mafatichulfuadi.com)
@@ -12,9 +11,10 @@ Feel free to connect with me through:
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
-![My GitHub Stats](https://github-readme-stats-git-master-rstaa.vercel.app/api?username=afatbenz&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afatbenz&layout=compact&theme=github_dark)
+![My GitHub Stats](https://github-readme-stats-git-master-rstaa.vercel.app/api?username=afatbenz&show_icons=true&theme=github_dark)  
+![Top Languages](https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=afatbenz&layout=compact&theme=github_dark)
 
 </div>
