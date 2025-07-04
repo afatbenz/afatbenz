@@ -12,9 +12,4 @@ Feel free to connect with me through:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![My GitHub Stats](https://github-readme-stats-git-master-rstaa.vercel.app/api?username=afatbenz&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=afatbenz&layout=compact&theme=github_dark)
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afatbenz&layout=compact)
