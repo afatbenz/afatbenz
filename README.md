@@ -13,4 +13,4 @@ Feel free to connect with me through:
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afatbenz&layout=compact)
+https://github-readme-stats.vercel.app/api/top-langs/?username=afatbenz&layout=compact
