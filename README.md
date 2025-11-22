@@ -5,7 +5,7 @@ There may not be much here, but I hope even a little can be useful to others.
 
 Feel free to connect with me through:
 - 🌐 [My Website](https://mafatichulfuadi.com)
-- 📧 Email: afatbenz@gmail.com
+- 📧 Email: afatbenz.solutions@gmail.com
 - 📘 [Facebook](https://facebook.com/mafatichulfuadi)
 
 ---
